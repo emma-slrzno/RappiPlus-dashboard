@@ -18,9 +18,7 @@ Dashboard ejecutivo sobre los pedidos de Rappi Plus entre enero y junio de 2025.
 
 ## Datos
 
-- **Fuente:** `Orders Clean.csv` [indicar origen del dataset y enlace si es público]
 - **Periodo:** enero a junio de 2025
-- **Tamaño:** [número de filas / pedidos]
 - **Variables principales:** Id Pedido, Id Usuario, Fecha Hora Pedido, Nombre Producto, Categoría Producto, Cantidad, Monto Total, País, Dispositivo, Gasto de marketing
 
 ## Herramientas
@@ -62,5 +60,5 @@ Dashboard ejecutivo sobre los pedidos de Rappi Plus entre enero y junio de 2025.
 
 ## Contacto
 
-- LinkedIn: [enlace]
-- Perfil de Tableau Public: [enlace]
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
